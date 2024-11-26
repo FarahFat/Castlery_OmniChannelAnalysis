@@ -18,4 +18,3 @@ All items covered via Python.
 - Customer Journey/Conversion Funnel
 - Strategies/Recommendation
 - Additional Analytical Project Idea
-![image](https://github.com/user-attachments/assets/71fb8ef2-04cd-4125-93e9-b95bd9d6077f)
