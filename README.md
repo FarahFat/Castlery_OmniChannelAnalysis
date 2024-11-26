@@ -58,7 +58,8 @@ Assign points for each purchase made, with multipliers for purchases in high-rev
 Enable customers to start a cart online and complete the purchase offline, or vice versa. This unification can improve conversion rates by reducing the friction caused by customers switching channels.
  - Cross-Channel Cart Recovery Campaigns:
 Develop email and SMS campaigns specifically for users who abandon their carts across different channels. For instance, if someone adds items to their cart online but doesn’t purchase, offer showroom-based assistance or promotions.
-Enhanced Customer Journey Experience
+
+8. Enhanced Customer Journey Experience
  - Streamlined Checkout:
 Reduce the number of steps in the online checkout process and optimize in-store checkout flow by training staff to assist customers with digital checkout options.
 Offer a guest checkout option, minimize required fields, and integrate multiple payment options to reduce friction. In-store, equip staff with tablets to assist with on-the-spot checkouts for high-traffic periods.
